@@ -17,6 +17,8 @@ class ShiyanlouPipeline(object):
         # 将 df_temp 合并到 df
         self.df = self.df.append(df_temp, ignore_index=True).sort_values(by=['update_time'], ascending=False)
 
+        return item
+
     #当爬虫启动时
     def open_spider(self, spider):
         # 新建一个带列名的空白 df

@@ -2,9 +2,6 @@
 import scrapy
 from shiyanlou.items import ShiyanlouItem
 
-"""
-自动获取下一页爬虫
-"""
 
 class GithubSpider(scrapy.Spider):
     name = 'github_next_page'
