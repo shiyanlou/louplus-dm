@@ -11,8 +11,8 @@ def clean():
                        columns=['address', 'region'])['region']
     # 拼接数据
     df = pd.concat([df1, df2], axis=1)
-    # 去除缺失值行
-    df_clean = df.dropna()
+    # 去除重复值和缺失值行
+    df_clean = df.drop_duplicates().dropna()
 
     return df_clean
 
