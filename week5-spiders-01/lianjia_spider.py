@@ -15,11 +15,14 @@ import pandas as pd
 
 base_url = 'https://sh.lianjia.com/zufang/'
 test_url = 'https://sh.lianjia.com/zufang/pg1/'
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36'}
 
 # 获取一页的房屋列表，具体为房屋的 id，例如 107100610451
 def getHouseURLList(page_url):
     try:
-        r = requests.get(page_url, timeout=5)
+        r = requests.get(page_url, timeout=5, headers=headers)
+        if r.status_code==403:
+        	print('访问被拒，请稍后再试')
     except requests.exceptions.Timeout:
         # 请求超时，返回无效数据
         return None
@@ -39,7 +42,8 @@ data_id_list = []
 
 # 多走几轮，以获得更全的数据
 for _ in range(1):
-    for i in tqdm(range(1, 101)):
+    # for i in tqdm(range(1, 101)):
+    for i in tqdm(range(1, 2)):
         page_url = base_url+'pg{}/'.format(i)
         return_list = getHouseURLList(page_url)
         if not return_list:
@@ -161,7 +165,9 @@ class Room(object):
 def getRoom(url):
     room = Room(url)
     try:
-        r = requests.get(url, timeout=5)
+        r = requests.get(url, timeout=5, headers=headers)
+        if r.status_code==403:
+        	print('访问被拒，请稍后再试')
     except requests.exceptions.Timeout:
         time.sleep(2)
         print('timeout')
