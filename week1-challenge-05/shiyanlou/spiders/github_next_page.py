@@ -15,8 +15,8 @@ class GithubSpider(scrapy.Spider):
         repos = response.xpath('//li[@itemprop="owns"]')
         for repo in repos:
             item = ShiyanlouItem()
-            item['repo_name'] = repo.xpath("./div/h3/a/text()").extract_first().strip()
-            item['update_time'] = repo.xpath('./div/relative-time/@datetime').extract_first()
+            item['repo_name'] = repo.xpath(".//a[@itemprop='name codeRepository']/text()").extract_first().strip()
+            item['update_time'] = repo.xpath(".//relative-time/@datetime").extract_first()
 
             yield item
 
