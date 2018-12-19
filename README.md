@@ -6,4 +6,7 @@
 - [课程思维导图 Mindmaps](/Mindmaps)
 - [项目挑战作业展示 Assignments](/Assignments)
 
-<img style="float: center;" src="https://static.shiyanlou.com/img/louplus/louplus_logo.png">
+<br>
+<p align="center">
+  <img src="https://static.shiyanlou.com/img/louplus/louplus_logo.png" />
+</p>
