@@ -8,7 +8,8 @@
 
 ---
 
-- [挑战参考答案 Answers](https://github.com/shiyanlou/louplus-dm/tree/master/Answers)
-- [课程思维导图 Mindmaps](https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
-- [项目挑战作业展示 Assignments](https://github.com/shiyanlou/louplus-dm/tree/master/Assignments)
-- [课程修订日志 CHANGELOG](https://github.com/shiyanlou/louplus-dm/wiki/CHANGELOG)
+### 第一期课程
+
+- 🏅️ 报告题目：中国保险业过去五年基础数据分析｜学员昵称：stenphen
+- 🥈 报告题目：上海历史天气数据分析预测｜学员昵称：BellaG
+- 🥉 报告题目：双色球历史数据统计预测｜学员昵称：hcccom
