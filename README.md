@@ -11,4 +11,4 @@
 - [挑战参考答案 Answers](/Answers)
 - [课程思维导图 Mindmaps](/Mindmaps)
 - [项目挑战作业展示 Assignments](/Assignments)
-- [课程修订日志 CHANGELOG]([修订日志](https://github.com/shiyanlou/louplus-dm/wiki/CHANGELOG))
+- [课程修订日志 CHANGELOG](https://github.com/shiyanlou/louplus-dm/wiki/CHANGELOG)
