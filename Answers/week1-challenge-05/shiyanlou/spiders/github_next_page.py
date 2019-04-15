@@ -23,6 +23,5 @@ class GithubSpider(scrapy.Spider):
         # 如果 Next 按钮没被禁用，那么表示有下一页
         spans = response.css('div.pagination span.disabled::text')
         if len(spans) == 0 or spans[-1].extract() != 'Next':
-            next_url = response.css(
-                'div.pagination a:last-child::attr(href)').extract_first()
+            next_url = response.css('div.paginate-container a:last-child::attr(href)').extract_first()
             yield response.follow(next_url, callback=self.parse)
