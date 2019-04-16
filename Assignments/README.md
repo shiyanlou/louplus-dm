@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="https://static.shiyanlou.com/img/louplus/louplus_logo.png" />
-</p>
-<br>
-<p align="center">
-  实验楼《楼+ 数据分析与挖掘实战》课程项目挑战作业展示｜<a href="https://www.shiyanlou.com/louplus/dm">课程报名</a>
-</p>
+<div align="center">
+  <h1><img src="https://static.shiyanlou.com/img/louplus/louplus_logo.png"></h1>
+  <b>实验楼《楼+ 数据分析与挖掘实战》课程仓库｜<a href="https://www.shiyanlou.com/louplus/dm">课程报名</a></b>
+</div>
 
----
+<br />
 
-如果 Github 无法正常预览，可点击 [此链接](https://nbviewer.jupyter.org/github/shiyanlou/louplus-dm/tree/master/Assignments/) 查看。
+如果 Github 无法正常预览，可以 [点击此链接在线预览](https://nbviewer.jupyter.org/github/shiyanlou/louplus-dm/tree/master/Assignments/)。
 
 ### 第一期课程
 
@@ -21,9 +18,13 @@
 - 报告题目：杭州互联网寒冬背景下的数据分析岗现状分析｜学员昵称：米竹314159 🌟
 - 报告题目：医学专业论坛的数据爬取和分析｜学员昵称：linnecn
 
-<br>
+### 第三期课程
+
+- 虚位以待
+
+<br />
 
 ```
 - 原作者可以提 PR 更新自己的报告内容。
-- 实验报告版权归属原学员且授权实验楼独家使用，请勿用于商业用途。
+- 实验报告版权归属原学员且授权实验楼独家使用，请勿用于商业用途。CC BY-NC 4.0
 ```
