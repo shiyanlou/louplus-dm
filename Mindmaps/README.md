@@ -8,7 +8,4 @@
 
 ---
 
-- [挑战参考答案 Answers](https://github.com/shiyanlou/louplus-dm/tree/master/Answers)
-- [课程思维导图 Mindmaps](https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
-- [项目挑战作业展示 Assignments](https://github.com/shiyanlou/louplus-dm/tree/master/Assignments)
-- [课程修订日志 CHANGELOG](https://github.com/shiyanlou/louplus-dm/wiki/CHANGELOG)
+- [点击下载全部思维导图](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
