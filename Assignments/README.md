@@ -5,7 +5,7 @@
 
 <br />
 
-如果 Github 无法正常预览，可以 [点击此链接在线预览](https://nbviewer.jupyter.org/github/shiyanlou/louplus-dm/tree/master/Assignments/)。
+如果 Github 加载缓慢，可以点击下方链接快速浏览。
 
 ### 第一期课程
 
