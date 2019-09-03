@@ -5,7 +5,8 @@
 
 <br />
 
-- [挑战参考答案](https://github.com/shiyanlou/louplus-dm/tree/master/Answers)
-- [课程思维导图](https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
+- [07 期之后挑战参考答案](https://github.com/shiyanlou/louplus-dm/tree/v2/Answers)
+- [07 期之后课程思维导图](https://github.com/shiyanlou/louplus-dm/tree/v2/Mindmaps)
+- [01-06 期挑战参考答案](https://github.com/shiyanlou/louplus-dm/tree/master/Answers)
+- [01-06 期课程思维导图](https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
 - [优秀项目挑战](https://github.com/shiyanlou/louplus-dm/tree/master/Assignments)
-- [课程修订日志](https://github.com/shiyanlou/louplus-dm/wiki/CHANGELOG)
