@@ -12,7 +12,7 @@ def beijing(n):
     df = pd.read_csv("beijing_house_price.csv")
     df = df.drop_duplicates()
     # df = df[['公交', '写字楼', '医院', '商场', '地铁', '学校', '建造时间', '楼层', '面积', '每平米价格']]
-    df = df.iloc[:, [0, 1, 2, 3, 4, 5, 7, 8, 9, 10]]  # 线上环境中文输入不方便
+    df = df.iloc[:, [0, 1, 2, 3, 4, 5, 7, 9, 11, 10]]  # 线上环境中文输入不方便
 
     # 计算特征与目标值相关性系数，并保留前 3 个特征
     pearson = np.abs(df.corr(method='pearson').iloc[-1])
