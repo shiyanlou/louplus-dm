@@ -36,6 +36,10 @@
 
 - 报告题目：[大连地区酒店数据分析](https://www.kaggle.com/louplus/dm06-937174)｜学员昵称：Miss_candy 🌟
 
+### 第 7 期课程
+
+- 报告题目：[微博搜索“双十一”数据分析](https://www.kaggle.com/lanjie/dm07-1127847)｜学员昵称：灵汐
+
 <br />
 
 ```
