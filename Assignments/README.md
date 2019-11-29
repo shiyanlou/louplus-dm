@@ -40,6 +40,11 @@
 
 - 报告题目：[微博搜索“双十一”数据分析](https://www.kaggle.com/lanjie/dm07-1127847)｜学员昵称：灵汐
 
+### 第 8 期课程
+
+- 报告题目：[B站up主“老番茄”基本数据采集分析](https://www.kaggle.com/truwbin/dm08-877339-b-up)｜学员昵称：今天小古不出门 🌟
+- 报告题目：[下厨房家常菜菜谱分析及新菜谱预测评分](https://www.kaggle.com/fors3c/dm08-ns3c)｜学员昵称：ns3c
+
 <br />
 
 ```
