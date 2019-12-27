@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://static.shiyanlou.com/img/louplus/louplus_logo.png"></h1>
-  <b>实验楼《楼+ 数据分析与挖掘实战》课程仓库｜<a href="https://www.shiyanlou.com/louplus/dm">课程报名</a></b>
+  <b>实验楼《楼+ 数据分析与挖掘实战》优秀项目挑战报告｜<a href="https://www.shiyanlou.com/louplus/dm">课程报名</a></b>
 </div>
 
 <br />
@@ -44,6 +44,13 @@
 
 - 报告题目：[B站up主“老番茄”基本数据采集分析](https://www.kaggle.com/truwbin/dm08-877339-b-up)｜学员昵称：今天小古不出门 🌟
 - 报告题目：[下厨房家常菜菜谱分析及新菜谱预测评分](https://www.kaggle.com/fors3c/dm08-ns3c)｜学员昵称：ns3c
+
+
+### 第 9 期课程
+
+- 报告题目：[世界银行国际旅游业指标分析](https://www.kaggle.com/furongrong/dm09-535211)｜学员昵称：RR25 🌟
+- 报告题目：[猪肉价格数据分析](https://www.kaggle.com/suxiaomo/dm09-1180757)｜学员昵称：苏小墨
+- 报告题目：[汽车之家数据分析](https://www.kaggle.com/mengchenshang/dm09-1176812)｜学员昵称：凹润纸
 
 <br />
 
