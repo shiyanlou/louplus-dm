@@ -9,4 +9,4 @@
 - [07 期之后课程思维导图](https://github.com/shiyanlou/louplus-dm/tree/v2/Mindmaps)
 - [01-06 期挑战参考答案](https://github.com/shiyanlou/louplus-dm/tree/master/Answers)
 - [01-06 期课程思维导图](https://github.com/shiyanlou/louplus-dm/tree/master/Mindmaps)
-- [优秀项目挑战](https://github.com/shiyanlou/louplus-dm/tree/master/Assignments)
+- [优秀项目挑战比赛报告](https://github.com/shiyanlou/louplus-dm/tree/master/Assignments)
