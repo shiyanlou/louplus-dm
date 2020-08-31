@@ -67,7 +67,7 @@
 ### 第 13 期课程
 
 - 报告题目：[基于 Python 语言的加拿大联邦大选数据分析](https://www.kaggle.com/czz1403/dm13-1204880-python)｜学员昵称：[TXZXTLD](https://www.lanqiao.cn/users/1204880/) 🌟
-- 报告题目：[新冠疫情社会影响数据分析](https://www.kaggle.com/vincentbao/dm13-812273)｜学员昵称：[vincentbao](https://www.lanqiao.cn/users/812273/) 🌟
+- 报告题目：[新冠疫情社会影响数据分析](https://www.kaggle.com/vincentbao/dm13-812273)｜学员昵称：[vincentbao](https://www.lanqiao.cn/users/812273/) 🌟 已经制作成课程：https://www.lanqiao.cn/courses/2791
 
 
 ```
